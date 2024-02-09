@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 ======================
 
 Coding in Java, Rust, C, and many more Languages. Interested in embedded development and Modded Minecraft.
